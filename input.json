@@ -1,0 +1,29 @@
+{
+    "localizadorCotacao": "{{localizador}}",
+    "nmIdentificadorObjetoSegurado": "{{nmIdentificadorObjetoSegurado}}",
+    "nmNumeroGrupoProduto": "1381",
+    "beneficiario": [
+        {
+            "nmCpfCnpj": "07194194090",
+            "nmNome": "Goku Kakarotto",
+            "pcParticipacao": 100,
+            "tpGrauParentesco": {
+                "idGrauParentesco": 5,
+                "nmDescricao": "Pai"
+            },
+            "tpBeneficiario": {
+                "nmBeneficiarioTipo": "Pessoa Física (PF)",
+                "nrBeneficiarioTipo": 3
+            },
+            "telefone": {
+                "nmDdd": "41",
+                "nmNumero": "98288909",
+                "inPrincipal": true
+            },
+            "email": {
+                "nmEmail": "mae@gmail.com",
+                "inPrincipal": true
+            }
+        }
+    ]
+}
