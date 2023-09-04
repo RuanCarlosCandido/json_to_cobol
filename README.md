@@ -26,3 +26,7 @@ This script converts a JSON structure into a COBOL data structure. It reads the 
 ## Configuration
 
 To adjust configurations like indentation, PIC clause lengths, etc., modify the values in the `Config` class within the script.
+
+## TODO
+In case that the field is a BigDecimal this should be PIC S9(15)V9(02)
+                                                     COMP-3.
